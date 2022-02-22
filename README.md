@@ -10,3 +10,4 @@ Responsive Test 2.0 assets included:
 §  Table2.0.jpg (your code should mirror this design in 400px – 1024px width) 
 
 §  Mobile2.0.jpg (your code should mirror this design in 360px width)
+
